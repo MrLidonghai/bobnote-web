@@ -24,3 +24,4 @@ jobs:
           path: .
       - id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true   # while GitHub's zombie deployment blocks the lock, a failed attempt must not fail the run (no failure emails); success is verified against the live site
