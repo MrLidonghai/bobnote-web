@@ -546,10 +546,10 @@
   .handle-resize{right:-5px;bottom:-5px;width:14px;height:14px;border:2px solid var(--accent);background:#fff;border-radius:4px;cursor:nwse-resize;display:none;}
   .card-column .handle-resize,.card-todo .handle-resize{cursor:ew-resize;}   /* width-only resize (height auto) */
   .card.selected .handle-resize{display:block;}
-  /* PPT-style rotation handle (shapes) */
+  /* PPT-style rotation handle (shapes + images) */
   .rotate-handle{position:absolute;top:-30px;left:50%;margin-left:-8px;width:16px;height:16px;border-radius:50%;border:2px solid var(--accent);background:#fff;cursor:grab;display:none;box-shadow:0 1px 3px rgba(0,0,0,.25);z-index:7;}
   .rotate-handle::before{content:"";position:absolute;left:50%;top:14px;width:2px;height:16px;background:var(--accent);margin-left:-1px;}
-  .card-shape.selected .rotate-handle{display:block;}
+  .card-shape.selected .rotate-handle,.card-image.selected .rotate-handle{display:block;}
   .handle-resize{z-index:8;}
   /* Connector mode: drag from one card/shape to another to link them */
   body.connect-mode #viewport,body.connect-mode #cardsLayer,body.connect-mode .card{cursor:crosshair;}
