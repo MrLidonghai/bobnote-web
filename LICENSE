@@ -1,0 +1,28 @@
+BobNote — Proprietary License
+
+Copyright (c) 2026 Bob Li. All Rights Reserved.
+
+This software, including its source code, design, and all associated
+documentation (collectively, "the Software"), is the proprietary
+property of Bob Li.
+
+Permission is granted to end users to USE the officially deployed
+application (https://mrlidonghai.github.io/bobnote-web/ and official
+desktop builds) for personal, non-commercial purposes.
+
+Except for the usage permission above, no rights are granted. Without
+the prior written consent of the copyright holder, you may NOT:
+
+  - copy, reproduce, or redistribute the Software or any part of its
+    source code, in original, minified, or any other form;
+  - modify, translate, or create derivative works of the Software;
+  - sell, sublicense, rent, or otherwise commercialize the Software;
+  - use the "BobNote" name or branding for any derived product.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
